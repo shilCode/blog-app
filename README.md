@@ -1,3 +1,7 @@
+# Checkout the app on the following URL
+
+https://shil-blog.netlify.app/
+
 # Astro Starter Kit: Blog
 
 ```sh
